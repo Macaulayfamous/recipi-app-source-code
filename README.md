@@ -1,2 +1,2 @@
 # recipi-app-source-code
-Rectipi App Source code for Free
+Recipi App Source code for Free
